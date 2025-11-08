@@ -89,6 +89,3 @@ Ensure you have the Arduino code running on your device to send angle and distan
   - Ensure the data is in the format `angle, distance.`.
 
 
-## Contact
-
-If you have any questions or feedback, please don't hesitate to contact me.
